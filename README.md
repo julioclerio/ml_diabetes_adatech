@@ -72,10 +72,10 @@ In summary, the Random Forest model emerged as the most promising for the predic
 
 ## Meet the Team Behind This Project
 
-Cláudio Gomes
-Clerio Fernandes
-Iris Pires
-Victor Alexander
+- **Cláudio Gomes**
+- **Clerio Fernandes**
+- **Iris Pires**
+- **Victor Alexander**
 
 
 
