@@ -67,3 +67,15 @@ When addressing the intricate task of predictively diagnosing diabetes, a variet
 - **Decision Tree:** The decision tree, predicting based on a series of decisions about the data's features, had the most modest performance, with an ROC score of 0.82 and accuracy of 0.71. This suggests that for this specific dataset, the decision tree might not be the ideal model.
 
 In summary, the Random Forest model emerged as the most promising for the predictive diagnosis of diabetes in this particular context, with Logistic Regression not far behind. Choosing the ideal model, however, should also take into account other factors such as interpretability, training speed, tunability, and integration with other systems. Regardless of the chosen model, it is crucial that predictions are used in conjunction with clinical expertise to ensure accurate diagnoses and quality care for patients.
+
+
+
+## Meet the Team Behind This Project
+
+Cláudio Gomes
+Clerio Fernandes
+Iris Pires
+Victor Alexander
+
+
+
