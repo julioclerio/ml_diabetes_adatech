@@ -66,6 +66,14 @@ Aiming to enhance the predictability of diabetes diagnosis, we conducted an in-d
 
 - **Decision Tree:** The decision tree, segmenting the feature space into regions, generated an ROC score of 0.82 and an accuracy of 0.71. These numbers indicate that, for this specific dataset, the decision tree might have limitations in its predictive capability.
 
+| Model             | ROC-AUC | Accuracy |
+|-------------------|---------|----------|
+| RandomForest      | 0.92    | 0.85     |
+| LogisticRegression| 0.90    | 0.82     |
+| KNN               | 0.86    | 0.79     |
+| DecisionTree      | 0.82    | 0.71     |
+
+
 In conclusion, the Random Forest model stands out as the most suitable for this particular dataset, considering the evaluated metrics. However, it's crucial to account for practical applicability, ease of interpretation, and the model's adaptability when considering its implementation in real-world scenarios.
 
 
